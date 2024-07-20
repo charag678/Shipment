@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 // Initialize Firebase
 const config = {
-    apiKey: 'AIzaSyDq77roSfjkZag9c_ln30dUfHDQLUZ5lzs',
+    apiKey: '',
     authDomain: 'fir-514e2.firebaseapp.com',
     databaseURL: 'https://fir-514e2.firebaseio.com',
     projectId: 'fir-514e2',
